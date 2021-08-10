@@ -6,8 +6,8 @@
 
 body {
   font-size: 1.2em;
-  background-color: #fff;
-  color: #555;
+  background-color: rgba(253, 253, 253, 0.925);
+  color: rgb(65, 64, 64);
 }
 
 p {
@@ -41,7 +41,7 @@ h2 {
 a, a:hover {
   outline: none;
   text-decoration:none;
-  color: #bb4b1f;
+  color: #0c0a0a;
 }
 
 ul {
@@ -84,7 +84,7 @@ hr {
 
 .logo_text h1, .logo_text h1 a, .logo_text h1 a:hover {
   padding: 22px 0 0 0;
-  color: #fff;
+  color: #bb4b1f;
   letter-spacing: 0.1em;
   text-decoration: none;
 }
@@ -121,11 +121,11 @@ ul.menu li a {
 }
 
 ul.menu li.selected a {
-  color: #aeb002;
+  color:#bb4b1f;
 }
 
 ul.menu li a:hover {
-  color: #e4ec04;
+  color: #bb4b1f;
 }
 
 hr {
