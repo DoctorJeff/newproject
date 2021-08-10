@@ -219,9 +219,21 @@ hr {
 
 .info_film_page .value{
   font-size: 1em;
-  color: #49945a;
+  color: #176b14;
   margin-right: 3%;
 }
+
+.description{
+  margin-bottom: 15%;
+}
+
+.description img{
+  float: left;
+  margin-right: 2%;
+  border-radius: 5px;
+  border: solid 5px #dad7d5;
+}
+
 
 .footer{
 	width: 100%;
@@ -236,7 +248,7 @@ hr {
 }
 
 .footer a {
-	color: #a8aa94;
+	color: #bb4b1f;
 	text-decoration: none;
 }
 
